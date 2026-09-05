@@ -11,7 +11,7 @@ This project is a very simple data science and analysis project uses housing.csv
   - Libraries : streamlit, numpy, pandas, matplotlib, scikit-learn.
 
 ** How to clone **
-  git clone https://github.com/hemanta-kandel/California-dataset-project.git
-  cd California-dataset-project
-  pip install -r requirements.txt
-  python main.py
+git clone https://github.com/hemanta-kandel/California-dataset-project.git
+cd California-dataset-project
+pip install -r requirements.txt
+python main.py
