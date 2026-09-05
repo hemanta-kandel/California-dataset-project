@@ -12,9 +12,9 @@ This project is a very simple data science and analysis project uses housing.csv
 
 ** How to clone **
 
-'''text
+```bash
 git clone https://github.com/hemanta-kandel/California-dataset-project.git
 cd California-dataset-project
 pip install -r requirements.txt
 python main.py
-'''
+```
