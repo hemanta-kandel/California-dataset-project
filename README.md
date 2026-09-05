@@ -18,3 +18,5 @@ cd California-dataset-project
 pip install -r requirements.txt
 python main.py
 ```
+
+The app is live on: [https://california-dataset-project.streamlit.app/]
